@@ -11,4 +11,4 @@ Sou apaixonado por tecnologia, desenvolvimento web e principalmente ajudar pesso
  <br/><br/> :email: &nbsp; Entre em contato comigo: 
  <br/> [![Linkedin Badge](https://img.shields.io/badge/-ErichMantai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erichmantai/)](https://www.linkedin.com/in/erichmantai/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-marcelinhomgo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickmantai@gmail.com)](mailto:erickmantai@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-erickmantai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickmantai@gmail.com)](mailto:erickmantai@gmail.com)
