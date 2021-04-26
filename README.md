@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia, desenvolvimento web e principalmente ajudar pesso
  <br/><br/> :purple_heart: &nbsp; Desenvolvimento web - PL/SQL
  <br/><br/> :blush: &nbsp; Posso te ajudar com desenvolvimento de sites e apps
  <br/><br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, ReactJS, Node.js, React Native & Typescript
- <br/><br/> 💬  &nbsp; Sobre mim: Curto tecnologias :iphone: Música 🎵 : e futebol :soccer:
+ <br/><br/> 💬  &nbsp; Sobre mim: Curto tecnologias :iphone: Música 🎵  e futebol :soccer:
  <br/><br/> :email: &nbsp; Entre em contato comigo: 
  <br/> [![Linkedin Badge](https://img.shields.io/badge/-ErichMantai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/erichmantai)](https://www.linkedin.com/in/erichmantai/) 
 | 
